@@ -1,0 +1,26 @@
+public class Person {
+    // ENKAPSULACJA: Pola są prywatne, dostęp do nich jest tylko przez metody
+    private String name;
+    private int age;
+
+    // KONSTRUKTOR: Wywoływany podczas tworzenia obiektu (słowo kluczowe 'new')
+    public Person(String name, int age) {
+        this.name = name;
+        this.age = age;
+    }
+
+    // GETTERY I SETTERY: Kontrolowany dostęp do prywatnych pól
+    public String getName() {
+        return name;
+    }
+
+    public void setAge(int age) {
+        if (age > 0) { // Możemy dodać logikę walidacji
+            this.age = age;
+        }
+    }
+}
+
+// Użycie w innej klasie:
+// Person osoba = new Person("Jan", 30);
+// osoba.setAge(31);
