@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8a258e9-ebe6-49c3-9d79-e3a97a2e03e2" name="Changes" comment="ICD10 zadanie powtorzeniowe" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;The-Blu-x&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/The-Blu-x/Java_Repo_UMCS.git&quot;,
+    &quot;accountId&quot;: &quot;329448fa-b046-4bd7-a3cc-101695349a93&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3DkoTAPOYDOJmjqCbcJ1s7oY3v6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/blu/Java_Repo_UMCS/untitled/src/Main.java",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8a258e9-ebe6-49c3-9d79-e3a97a2e03e2" name="Changes" comment="" />
+      <created>1778835438386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1778835438386</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ICD10 zadanie powtorzeniowe">
+      <option name="closed" value="true" />
+      <created>1779439175922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779439175922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ICD10 zadanie powtorzeniowe">
+      <option name="closed" value="true" />
+      <created>1779439337773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779439337773</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ICD10 zadanie powtorzeniowe">
+      <option name="closed" value="true" />
+      <created>1779439671464</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779439671464</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ICD10 zadanie powtorzeniowe">
+      <option name="closed" value="true" />
+      <created>1779439690326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779439690326</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ICD10 zadanie powtorzeniowe">
+      <option name="closed" value="true" />
+      <created>1779439863436</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779439863436</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ICD10 zadanie powtorzeniowe">
+      <option name="closed" value="true" />
+      <created>1779440324173</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779440324173</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ICD10 zadanie powtorzeniowe" />
+    <option name="LAST_COMMIT_MESSAGE" value="ICD10 zadanie powtorzeniowe" />
+  </component>
+</project>
